@@ -1,8 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# G-Blog Website
 
-Currently, two official plugins are available:
+A Blog website developed by React, GraphQL (HeadlessCMS, Hygraph), MUI and fully Responsive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Screenshots
+
+![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/73791490/282169650-225eb925-4c73-4812-89e7-44c623d2be3a.jpg)
+
+
+## Online Demo
+
+💻 [G-Blog Website](https://gblogweb.vercel.app/)
+
+
+## Used Technologies
+
+ - React
+ - GraphQL
+ - HeadlessCMS ([Hygraph](https://hygraph.com))
+ - Material UI
+ - Asynchronous Requests with Axios
+
