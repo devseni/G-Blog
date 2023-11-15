@@ -11,10 +11,6 @@ A Blog website developed by React, GraphQL (HeadlessCMS, Hygraph), MUI and fully
 ![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/73791490/282169650-225eb925-4c73-4812-89e7-44c623d2be3a.jpg)
 
 
-## Online Demo
-
-💻 [G-Blog Website](https://gblogweb.vercel.app/)
-
 
 ## Used Technologies
 
